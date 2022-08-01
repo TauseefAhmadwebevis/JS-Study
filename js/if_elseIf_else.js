@@ -1,0 +1,1 @@
+let Teprature = 50;
